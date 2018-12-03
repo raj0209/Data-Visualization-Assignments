@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Homelessness in USA</title>
+<head><link rel="stylesheet" href="style.css" /></head>
+<html>
+<body>
+    <div class="intro"><p><h1><u>HOMELESS POPULATION IN USA</u></h1></p></div>
+    <div class="info">
+        <p><b>Name: </b>Raj Buddhadev &nbsp &nbsp &nbsp <b>Course: </b> Data Visualization (CSE 578) &nbsp &nbsp &nbsp <b>Date: </b>  15<sup>th</sup> October 2018</p>
+    </div>
+    <div id="map_selector"></div>
+    <div id="tooltip-container"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.1.0/topojson.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="http://d3js.org/d3.v3.js"></script>
+
+    <div id="visuals">
+        <div id="map"></div>
+        <div id="line"></div>
+    </div>
+
+    <script src="map.js"></script>
+
+    <div id="write-up" class="write-up">
+        <p><h3>The choropleth map shows the number of homeless people in each state of USA in 2016. While, the line chart shows the percentage increase/decrease in the number of homeless people from 2007-2016 in the country. </h3></p>
+        <p><h3>When the user hovers on any state, he/she can see the number of homeless people in that state in 2016. On clicking a particular state, a line chart showing the percentage increase/decrease in number of homeless people from 2007-2016 in that state will be displayed.</h3></p>
+        <p><h3>For example, if the user hovers the mouse on the state 'Arizona', the pop up box shows the number of homeless people in Arizona in 2016. On clicking the state of Arizona, the line chart showing the percentage increase/decrease in number of homeless people in Arizona from 2007-2016 will be displayed.</h3></p>
+    </div>
+    <div id="follow-up" class="follow-up">
+        <p><h3>Extra Credit : For extra credit on this assignment, I have also implemented a choropleth map that shows the per capita value of homeless people(percentage of homeless people) in each state in 2016. This percentage is obtained by dividing the number of homeless people in a state in 2016 by the total population of that state in 2016. Hover and on-click interactions are also applied on the per-capita choropleth map. Two maps can be toggled through the drop down menu present on top left of the map.</h3></p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Gun Violence in US</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            font: 20px Serif;
+            line-height: 1.8;
+            color: #f5f6f7;
+        }
+
+        .margin {
+            margin-bottom: 45px;
+        }
+
+        .begin {
+            background-color: #ffffff;
+            color: #1B1B1B;
+            padding-top: 5px;
+            font: 20px;
+        }
+
+        .bg-1 {
+            background-color: #474e5d;
+            color: #ffffff;
+        }
+
+        .bg-2 {
+            background-color: #b9cdd9;
+            color: #1B1B1B;
+        }
+
+        .bg-3 {
+            background-color: #ffffff;
+            color: #1B1B1B;
+        }
+
+        .bg-4 {
+            background-color: #474e5d;
+            color: #ffffff;
+        }
+
+        .bg-5 {
+            background-color: #ffffff;
+            color: #1B1B1B;
+        }
+
+        .bg-6 {
+            background-color: #b9cdd9;
+            color: #0B2A9E;
+        }
+
+        .container-fluid {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+
+        .padding {
+            padding-bottom: 150px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid begin text-center padding" id="start">
+        <br />
+        <img src="images/gun violence.png" style="display:inline" alt="Gun Violence" width="50%" height="300px">
+        <br /><br /><br />
+        <h3 class="margin">
+            United States of America has the highest number of gun deaths than any other developed nation and has far higher levels of gun ownership than any other country in the world. Every day, hundreds of people in US are shot and injured using guns.
+            <br /><br />
+            Through this data story, we will try to visualize and analyze publicly available data of gun violence in US over the last four years (2014-2017).
+            <br /><br />
+            Link to dataset - <a href="https://www.kaggle.com/jameslko/gun-violence-data" target="_blank">https://www.kaggle.com/jameslko/gun-violence-data</a>
+        </h3>
+    </div>
+
+    <div class="container-fluid bg-1 text-center" id="intro">
+        <h3> Gun violence has been a major problem in US since many years. But the recent increase in the rate of gun violence is alarming. There has been a 30% increase in number of people killed or injured through gun violence since 2014.</h3>
+        <br /><br />
+        <img src="images/bar.png" style="display:inline" alt="Yearly" width="35%" height="750px">
+        <br /><br />
+    </div>
+
+    <div class="container-fluid bg-2 text-center" id="country">
+        <h3 class="margin">Gun violence is experienced across the country, but it is observed that states like Illinois, California, Texas, Florida and Ohio report high number of people killed or injured due to gun violence. This doesn’t necessarily mean that these states have higher gun violence rate. They report high number of violence probably due to their high population as compared to other states.</h3>
+        <img src="images/map.png" style="display:inline" alt="Map">
+        <br /><br />
+    </div>
+
+    <div class="container-fluid bg-3 text-center" id="question1">
+        <h3 class="margin">Which are some states that have constantly reported an increase in number of killings due to gun violence?</h3>
+        <img src="images/states.png" style="display:inline" alt="States">
+        <br /><br />
+        <h4> The line graph suggests that the states of Illinois, Ohio, Missouri, Tennessee, Alabama and Maryland have constantly reported an increase in number of killings due to gun violence.</h4>
+        <br />
+        <h4>The number of killings in each of these states except Ohio (42% increase) has increased by more than 50% over the last four years, which is significantly higher than the national increase of 30%.</h4>
+    </div>
+
+    <div class="container-fluid bg-4 text-center" id="question2">
+        <h3 class="margin">Are there any specific cities or areas that have reported high number of killings/injuries and are prone to gun violence?</h3>
+        <img src="images/cities.png" style="display:inline" alt="Cities">
+        <br /><br />
+        <h4>The bubble chart shows that cities like Chicago, Philadelphia, Baltimore, Saint Louis, New Orleans, Houston and Memphis have reported high number of casualities due to gun violence.</h4>
+        <br />
+        <h4>The interesting point to note here is that the cities like Baltimore, Memphis, New Orleans, Milwaukee, Saint Louis, Cleveland, Detroit and Jacksonville have reported significant number of killings and injuries despite their small population as compared to metropolitan cities like Chicago, Washington, Houston, Philadelphia and others.</h4>
+    </div>
+
+    <div class="container-fluid bg-5 text-center" id="question3">
+        <h3 class="margin">What type of incidences have led to significant casualties due to guns?</h3>
+        <img src="images/types.png" style="display:inline" alt="Types">
+        <br /><br />
+        <h4>The tree map depicts that suicide, murders, mass shooting and armed robbery are major incidences that have led to causalities. Domestic violence, accidental shooting and unknown incidents are classified as 'Others'.</h4>
+        <br />
+        <h4>It is astonishing to see that suicides consist of one-third of the casualties due to guns. According to a recent study, there is a strong relationship between gun ownership and suicide. It quotes that access to gun increases the risk of death by suicide by three times.</h4>
+        <br/>
+        <h5 style="color:red"><b> Note - There is no specific incidence type mentioned in the dataset. Keywords are used to extract incidence type from the recorded incident characteristics. Records with multiple keywords are counted towards all the types that match.</b></h5>
+    </div>
+
+    <div class="container-fluid bg-6 text-left" id="summary">
+        <h2 align="center" style="font:ubuntu"><b><u>SUMMARY</u></b></h2>
+        <br />
+        <h4 style="color:black">There is no hiding from the fact that the gun problem in US is massive. Gun violence is increasing every year as people are having easy access to guns. Through the visualizations, we have discovered some of the below aspects:</h4>
+        <ul>
+            <li><h4 style="color:maroon"> Number of killings in states like Illinois, Ohio, Missouri, Tennessee, Alabama and Maryland have constantly increased over the years.</h4></li>
+            <li><h4 style="color:maroon"> Cities like Baltimore, Memphis, New Orleans, Milwaukee, Saint Louis, Cleveland, Detroit and Jacksonville have reported significant number of causalities due to gun violence and can be labelled as unsafe as compared to other cities.</h4></li>
+            <li><h4 style="color:maroon"> Suicides, murders and mass shooting contribute majorly towards the causalities caused by guns. </h4></li>
+        </ul>
+        <h4 style="color:black"> It is observed that cities like Chicago in Illinois, Baltimore in Maryland, Memphis in Tennessee, Saint Louis in Missouri and Cleveland & Cincinnati in Ohio have contributed significantly to their state’s total of casualties due to guns.</h4>
+        <h4 style="color:black"> The bitter truth of gun violence is that the access to guns have led to an astonishing suicide rates among the owners. Homicides including mass shooting have also increased drastically over the past few years. There is a strong opinion from people of United States that gun violence needs to stop and strict laws and legal systems must be introduced to stop it.</h4>
+    </div>
+
+</body>
+</html>

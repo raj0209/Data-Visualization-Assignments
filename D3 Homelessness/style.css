@@ -1,0 +1,125 @@
+﻿    body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        width: 700px;
+        height: 500px;
+        position: relative;
+    }
+    
+    .states {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+    }
+
+    .states-choropleth {
+        fill: #ccc;
+    }
+
+    #tooltip-container {
+        position: absolute;
+        background-color: #fff;
+        color: #000;
+        padding: 10px;
+        border: 1px solid;
+        display: none;
+    }
+
+    .tooltip_format {
+        font-weight: bold;
+    }
+
+    .tooltip_value {
+        margin-left: 20px;
+        float: right;
+    }
+
+    .option-select {
+        margin-top: 20px;
+        margin-left: 40px;
+        fill: #64b646;
+        width: auto;
+    }
+
+    .axis {
+        font: 10px sans-serif;
+    }
+
+    .axis-title {
+        text-anchor:end;
+        font-size:medium;
+    }
+
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .axis--x path {
+        display: none;
+    }
+
+    .axis--y .tick:not(.tick--one) line {
+        stroke-opacity: .15;
+    }
+
+    .line {
+        fill: none;
+        stroke: steelblue;
+        stroke-width: 2.5px;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+    }
+
+    #visuals {
+        width: 1400px;
+        margin: auto;
+    }
+
+    #map {
+        width: 800px;
+        float: left;
+        height: 600px;
+    }
+
+    #line {
+        width: 600px;
+        float: left;
+        height: 600px;
+    }
+    .intro {
+        width: 1400px;
+        margin: auto;
+        color: DarkSlateGray;
+        padding: 5px 5px 0px 5px;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 22px;
+    }
+
+    .info {
+        width: 1400px;
+        margin: auto;
+        color: black;
+        padding: 0px 5px 50px 5px;
+        text-align: center;
+        font: sans-serif;
+        font-size: 18px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .write-up {
+        width: 1400px;
+        color: maroon;
+        margin: auto;
+        padding: 5px 0px 0px 0px;
+        text-align: center;
+    }
+
+    .follow-up {
+        width: 1400px;
+        color: forestgreen;
+        margin: auto;
+        padding: 5px 0px 0px 0px;
+        text-align: center;
+    }

@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Netowrk Visualization</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            font: 20px Serif;
+            line-height: 1.8;
+            color: #f5f6f7;
+        }
+
+        .margin {
+            margin-bottom: 45px;
+        }
+
+        .begin {
+            background-color: #ffffff;
+            color: #1B1B1B;
+            padding-top: 5px;
+            font: 20px;
+        }
+
+        .intro {
+            width: 1400px;
+            margin: auto;
+            color: DarkSlateGray;
+            padding: 5px 5px 0px 5px;
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 38px;
+        }
+
+        .info {
+            width: 1400px;
+            margin: auto;
+            color: black;
+            padding: 0px 5px 50px 5px;
+            text-align: center;
+            font: sans-serif;
+            font-size: 18px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .bg-1 {
+            background-color: #474e5d;
+            color: #ffffff;
+        }
+  
+        .container-fluid {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+
+        .padding {
+            padding-bottom: 150px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid begin text-center padding" id="start">
+        <br />
+        <div class="intro">
+            <p><b><u>MAPPING SCIENCE AND SOCIETY ACTORS ON THE WEB</u></b></p>
+            <div class="info"><p>Name: Raj Buddhadev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Course: Data Visualization (CSE 578) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 5<sup>th</sup> November 2018</p></div>
+        </div>
+        <h3 class="margin">
+            Link to dataset - <a href="https://github.com/gephi/gephi.github.io/blob/master/datasets/eurosis.gexf.zip" target="_blank">https://github.com/gephi/gephi.github.io/blob/master/datasets/eurosis.gexf.zip</a>
+            <br /><br />
+            The dataset is about mapping the interactions between Science and Society actors (Universities, Research Centers, Companies, etc.) on the Web for 12 European countries. The mapping reveals the most influential stakeholders in the network and the ones that are most active.
+            <br /><br /><br />
+            Below is the network visualization of the dataset where the nodes represent the institutions and the edges represent the interaction between them.
+            <br /><br />
+            <img src="images/network.png" style="display:inline" alt="Network Visualization" />
+            <br /><br /> <br />
+            <b>Layout </b>: ForceAtlas 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Node & Edge Color</b> : By Country &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Node Size</b> : By Degree
+            <br /><br />
+            This graph has communities formed on the basis of the countries in which institutions are located. Nodes(institutes) of the different countries are represented using different colors.
+            <br /><br />
+            <b>Average Degree Centrality</b> of this graph is <b>11.71</b>, which means that on an average an institution interacts with approx. <b>12</b> other institutes. This number can be skewed up or down a little by high degree nodes or low degree nodes. But, the average does help to form some sort of perception about the interactions between these institutes.
+            <br /><br />
+            <b>Average Betweeness Centrality </b>of this graph is <b>1821.74</b>, which means that on an average a node occurs <b>1822</b> times in the shortest paths from one node to another. The high value of betweeness centrality can mainly be beacuse of the nodes at the centre, which might be occuring high number times in the shortest path from one node to another.
+            <br /><br />
+            <b> Average Eigenvector Centrality </b>of this graph is <b>0.09257</b>, which means that the average influence of a given node on the network is <b>0.09257</b> units. The average eigenvector centrality is low for this graph because many nodes have interactions with small number of nodes(which are also less influencial in the network) and hence, they contribute to a low eigenvaector centrality.
+        </h3>
+    </div>
+
+
+    <div class="container-fluid bg-1 text-center" id="intro">
+        <h3>Below is the graph where node size and color are dependent on the Eigenvector centrality.</h3>
+        <br /><br />
+        <img src="images/eigen.png" style="display:inline" alt="EigenVector Centrality">
+        <br /><br />
+        <h3>The size of the nodes vary from 10 units (low eigenvector centrality) to 50 units (high eigenvector centrality).</h3>
+    </div> 
+
+</body>
+</html>

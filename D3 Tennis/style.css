@@ -1,0 +1,66 @@
+﻿
+.intro {
+    color: DarkSlateGray;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 0px 5px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 22px;
+}
+
+.info {
+    color: black;
+    margin: 5px 5px 25px 5px;
+    padding: 0px 5px 5px 5px;
+    text-align: center;
+    font: sans-serif;
+    font-size:18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#scatter {
+    display: inline-block;
+}
+
+#bar {
+    display: inline-block;
+}
+
+.tooltip {
+    position: absolute;
+    width: 800px;
+    height: 100px;
+    pointer-events: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.bars{
+    fill:steelblue;
+}
+
+.bars:hover{
+    fill:brown;
+}
+
+#write-up {
+    color: maroon;
+    margin: 20px auto 5px auto;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+
+.label{
+    font-weight:bold;
+}
+
+

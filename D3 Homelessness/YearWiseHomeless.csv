@@ -1,0 +1,521 @@
+state,date,homeless
+Alabama,01-Jan-07,23794
+Alabama,01-Jan-08,23652
+Alabama,01-Jan-09,26698
+Alabama,01-Jan-10,26270
+Alabama,01-Jan-11,28006
+Alabama,01-Jan-12,25764
+Alabama,01-Jan-13,23210
+Alabama,01-Jan-14,22244
+Alabama,01-Jan-15,20338
+Alabama,01-Jan-16,20100
+Alaska,01-Jan-07,7124
+Alaska,01-Jan-08,7462
+Alaska,01-Jan-09,8614
+Alaska,01-Jan-10,7780
+Alaska,01-Jan-11,10100
+Alaska,01-Jan-12,9280
+Alaska,01-Jan-13,8940
+Alaska,01-Jan-14,8316
+Alaska,01-Jan-15,9806
+Alaska,01-Jan-16,9332
+Arkansas,01-Jan-07,17048
+Arkansas,01-Jan-08,14806
+Arkansas,01-Jan-09,12220
+Arkansas,01-Jan-10,11838
+Arkansas,01-Jan-11,16946
+Arkansas,01-Jan-12,19328
+Arkansas,01-Jan-13,18580
+Arkansas,01-Jan-14,14542
+Arkansas,01-Jan-15,14524
+Arkansas,01-Jan-16,13190
+Arizona,01-Jan-07,64192
+Arizona,01-Jan-08,56146
+Arizona,01-Jan-09,63342
+Arizona,01-Jan-10,58714
+Arizona,01-Jan-11,54204
+Arizona,01-Jan-12,55744
+Arizona,01-Jan-13,49444
+Arizona,01-Jan-14,47532
+Arizona,01-Jan-15,51024
+Arizona,01-Jan-16,49880
+California,01-Jan-07,636626
+California,01-Jan-08,626632
+California,01-Jan-09,557536
+California,01-Jan-10,556390
+California,01-Jan-11,672434
+California,01-Jan-12,643038
+California,01-Jan-13,632446
+California,01-Jan-14,604312
+California,01-Jan-15,661882
+California,01-Jan-16,668516
+Colorado,01-Jan-07,61000
+Colorado,01-Jan-08,61152
+Colorado,01-Jan-09,63644
+Colorado,01-Jan-10,64792
+Colorado,01-Jan-11,70592
+Colorado,01-Jan-12,77868
+Colorado,01-Jan-13,47506
+Colorado,01-Jan-14,48102
+Colorado,01-Jan-15,52620
+Colorado,01-Jan-16,55552
+Connecticut,01-Jan-07,19974
+Connecticut,01-Jan-08,20258
+Connecticut,01-Jan-09,20068
+Connecticut,01-Jan-10,18818
+Connecticut,01-Jan-11,23106
+Connecticut,01-Jan-12,21276
+Connecticut,01-Jan-13,22658
+Connecticut,01-Jan-14,23250
+Connecticut,01-Jan-15,19882
+Connecticut,01-Jan-16,18814
+Dist. Of Columbia,01-Jan-07,24800
+Dist. Of Columbia,01-Jan-08,28544
+Dist. Of Columbia,01-Jan-09,28758
+Dist. Of Columbia,01-Jan-10,30376
+Dist. Of Columbia,01-Jan-11,37250
+Dist. Of Columbia,01-Jan-12,38138
+Dist. Of Columbia,01-Jan-13,36566
+Dist. Of Columbia,01-Jan-14,39920
+Dist. Of Columbia,01-Jan-15,40520
+Dist. Of Columbia,01-Jan-16,44816
+Delaware,01-Jan-07,4544
+Delaware,01-Jan-08,4228
+Delaware,01-Jan-09,4854
+Delaware,01-Jan-10,4122
+Delaware,01-Jan-11,4530
+Delaware,01-Jan-12,4564
+Delaware,01-Jan-13,4246
+Delaware,01-Jan-14,4154
+Delaware,01-Jan-15,4684
+Delaware,01-Jan-16,5074
+Florida,01-Jan-07,207202
+Florida,01-Jan-08,217788
+Florida,01-Jan-09,240520
+Florida,01-Jan-10,248668
+Florida,01-Jan-11,284588
+Florida,01-Jan-12,271558
+Florida,01-Jan-13,241046
+Florida,01-Jan-14,207228
+Florida,01-Jan-15,189254
+Florida,01-Jan-16,174246
+Georgia,01-Jan-07,83524
+Georgia,01-Jan-08,81722
+Georgia,01-Jan-09,88982
+Georgia,01-Jan-10,86614
+Georgia,01-Jan-11,106710
+Georgia,01-Jan-12,102030
+Georgia,01-Jan-13,83822
+Georgia,01-Jan-14,80986
+Georgia,01-Jan-15,69504
+Georgia,01-Jan-16,64516
+Hawaii,01-Jan-07,25836
+Hawaii,01-Jan-08,25800
+Hawaii,01-Jan-09,24672
+Hawaii,01-Jan-10,24938
+Hawaii,01-Jan-11,29502
+Hawaii,01-Jan-12,29794
+Hawaii,01-Jan-13,31176
+Hawaii,01-Jan-14,34062
+Hawaii,01-Jan-15,39778
+Hawaii,01-Jan-16,42594
+Iowa,01-Jan-07,11550
+Iowa,01-Jan-08,13938
+Iowa,01-Jan-09,14132
+Iowa,01-Jan-10,12554
+Iowa,01-Jan-11,14474
+Iowa,01-Jan-12,13374
+Iowa,01-Jan-13,14102
+Iowa,01-Jan-14,13868
+Iowa,01-Jan-15,15328
+Iowa,01-Jan-16,14774
+Idaho,01-Jan-07,7186
+Idaho,01-Jan-08,5948
+Idaho,01-Jan-09,8176
+Idaho,01-Jan-10,9606
+Idaho,01-Jan-11,10528
+Idaho,01-Jan-12,9400
+Idaho,01-Jan-13,8624
+Idaho,01-Jan-14,9822
+Idaho,01-Jan-15,10008
+Idaho,01-Jan-16,11644
+Illinois,01-Jan-07,67310
+Illinois,01-Jan-08,64010
+Illinois,01-Jan-09,60644
+Illinois,01-Jan-10,61840
+Illinois,01-Jan-11,68450
+Illinois,01-Jan-12,67694
+Illinois,01-Jan-13,62530
+Illinois,01-Jan-14,60848
+Illinois,01-Jan-15,68584
+Illinois,01-Jan-16,57524
+Indiana,01-Jan-07,30820
+Indiana,01-Jan-08,30972
+Indiana,01-Jan-09,29466
+Indiana,01-Jan-10,27358
+Indiana,01-Jan-11,28620
+Indiana,01-Jan-12,28590
+Indiana,01-Jan-13,28190
+Indiana,01-Jan-14,27718
+Indiana,01-Jan-15,30046
+Indiana,01-Jan-16,28980
+Kansas,01-Jan-07,7968
+Kansas,01-Jan-08,6596
+Kansas,01-Jan-09,7070
+Kansas,01-Jan-10,7562
+Kansas,01-Jan-11,11158
+Kansas,01-Jan-12,11786
+Kansas,01-Jan-13,11256
+Kansas,01-Jan-14,11836
+Kansas,01-Jan-15,11740
+Kansas,01-Jan-16,10008
+Kentucky,01-Jan-07,33392
+Kentucky,01-Jan-08,33832
+Kentucky,01-Jan-09,25338
+Kentucky,01-Jan-10,27882
+Kentucky,01-Jan-11,28544
+Kentucky,01-Jan-12,24316
+Kentucky,01-Jan-13,24358
+Kentucky,01-Jan-14,24464
+Kentucky,01-Jan-15,22652
+Kentucky,01-Jan-16,20890
+Louisiana,01-Jan-07,23100
+Louisiana,01-Jan-08,23150
+Louisiana,01-Jan-09,59646
+Louisiana,01-Jan-10,59558
+Louisiana,01-Jan-11,56796
+Louisiana,01-Jan-12,44458
+Louisiana,01-Jan-13,26514
+Louisiana,01-Jan-14,22402
+Louisiana,01-Jan-15,22210
+Louisiana,01-Jan-16,21046
+Massachusetts,01-Jan-07,66088
+Massachusetts,01-Jan-08,62728
+Massachusetts,01-Jan-09,65802
+Massachusetts,01-Jan-10,70598
+Massachusetts,01-Jan-11,77436
+Massachusetts,01-Jan-12,80586
+Massachusetts,01-Jan-13,87082
+Massachusetts,01-Jan-14,100720
+Massachusetts,01-Jan-15,104206
+Massachusetts,01-Jan-16,94740
+Maryland,01-Jan-07,41612
+Maryland,01-Jan-08,39854
+Maryland,01-Jan-09,50916
+Maryland,01-Jan-10,47738
+Maryland,01-Jan-11,49424
+Maryland,01-Jan-12,44678
+Maryland,01-Jan-13,40086
+Maryland,01-Jan-14,39692
+Maryland,01-Jan-15,45286
+Maryland,01-Jan-16,39480
+Maine,01-Jan-07,10746
+Maine,01-Jan-08,10792
+Maine,01-Jan-09,10148
+Maine,01-Jan-10,9968
+Maine,01-Jan-11,10890
+Maine,01-Jan-12,10736
+Maine,01-Jan-13,13096
+Maine,01-Jan-14,12184
+Maine,01-Jan-15,11600
+Maine,01-Jan-16,11044
+Michigan,01-Jan-07,118612
+Michigan,01-Jan-08,118534
+Michigan,01-Jan-09,59318
+Michigan,01-Jan-10,55880
+Michigan,01-Jan-11,61714
+Michigan,01-Jan-12,57882
+Michigan,01-Jan-13,52732
+Michigan,01-Jan-14,56324
+Michigan,01-Jan-15,53686
+Michigan,01-Jan-16,46678
+Minnesota,01-Jan-07,32120
+Minnesota,01-Jan-08,33650
+Minnesota,01-Jan-09,33770
+Minnesota,01-Jan-10,34456
+Minnesota,01-Jan-11,38326
+Minnesota,01-Jan-12,38466
+Minnesota,01-Jan-13,38954
+Minnesota,01-Jan-14,39082
+Minnesota,01-Jan-15,41144
+Minnesota,01-Jan-16,38104
+Missouri,01-Jan-07,28224
+Missouri,01-Jan-08,33910
+Missouri,01-Jan-09,30594
+Missouri,01-Jan-10,35978
+Missouri,01-Jan-11,44338
+Missouri,01-Jan-12,50454
+Missouri,01-Jan-13,41926
+Missouri,01-Jan-14,35782
+Missouri,01-Jan-15,35066
+Missouri,01-Jan-16,35318
+Mississippi,01-Jan-07,6694
+Mississippi,01-Jan-08,9598
+Mississippi,01-Jan-09,12232
+Mississippi,01-Jan-10,11686
+Mississippi,01-Jan-11,11518
+Mississippi,01-Jan-12,12144
+Mississippi,01-Jan-13,11932
+Mississippi,01-Jan-14,10590
+Mississippi,01-Jan-15,9766
+Mississippi,01-Jan-16,8414
+Montana,01-Jan-07,4766
+Montana,01-Jan-08,5944
+Montana,01-Jan-09,5104
+Montana,01-Jan-10,6750
+Montana,01-Jan-11,8870
+Montana,01-Jan-12,9530
+Montana,01-Jan-13,9038
+Montana,01-Jan-14,8572
+Montana,01-Jan-15,9012
+Montana,01-Jan-16,7082
+North Carolina,01-Jan-07,50498
+North Carolina,01-Jan-08,53298
+North Carolina,01-Jan-09,54652
+North Carolina,01-Jan-10,51722
+North Carolina,01-Jan-11,59984
+North Carolina,01-Jan-12,63406
+North Carolina,01-Jan-13,58286
+North Carolina,01-Jan-14,54016
+North Carolina,01-Jan-15,53682
+North Carolina,01-Jan-16,47676
+North Dakota,01-Jan-07,2704
+North Dakota,01-Jan-08,2562
+North Dakota,01-Jan-09,3232
+North Dakota,01-Jan-10,3324
+North Dakota,01-Jan-11,2960
+North Dakota,01-Jan-12,3416
+North Dakota,01-Jan-13,9474
+North Dakota,01-Jan-14,5794
+North Dakota,01-Jan-15,6692
+North Dakota,01-Jan-16,4788
+Nebraska,01-Jan-07,15694
+Nebraska,01-Jan-08,17354
+Nebraska,01-Jan-09,15862
+Nebraska,01-Jan-10,16578
+Nebraska,01-Jan-11,16820
+Nebraska,01-Jan-12,17658
+Nebraska,01-Jan-13,14602
+Nebraska,01-Jan-14,14290
+Nebraska,01-Jan-15,14036
+Nebraska,01-Jan-16,13562
+New Hampshire,01-Jan-07,9726
+New Hampshire,01-Jan-08,8950
+New Hampshire,01-Jan-09,7240
+New Hampshire,01-Jan-10,6948
+New Hampshire,01-Jan-11,7032
+New Hampshire,01-Jan-12,7334
+New Hampshire,01-Jan-13,7058
+New Hampshire,01-Jan-14,7198
+New Hampshire,01-Jan-15,7908
+New Hampshire,01-Jan-16,7404
+New Jersey,01-Jan-07,74306
+New Jersey,01-Jan-08,57866
+New Jersey,01-Jan-09,54544
+New Jersey,01-Jan-10,56702
+New Jersey,01-Jan-11,61990
+New Jersey,01-Jan-12,57388
+New Jersey,01-Jan-13,54036
+New Jersey,01-Jan-14,53540
+New Jersey,01-Jan-15,52456
+New Jersey,01-Jan-16,43862
+New Mexico,01-Jan-07,13482
+New Mexico,01-Jan-08,13482
+New Mexico,01-Jan-09,15458
+New Mexico,01-Jan-10,15458
+New Mexico,01-Jan-11,19600
+New Mexico,01-Jan-12,17958
+New Mexico,01-Jan-13,13862
+New Mexico,01-Jan-14,14456
+New Mexico,01-Jan-15,14944
+New Mexico,01-Jan-16,12930
+Nevada,01-Jan-07,36310
+Nevada,01-Jan-08,36812
+Nevada,01-Jan-09,46950
+Nevada,01-Jan-10,47650
+Nevada,01-Jan-11,44492
+Nevada,01-Jan-12,43346
+Nevada,01-Jan-13,32632
+Nevada,01-Jan-14,39220
+Nevada,01-Jan-15,48648
+Nevada,01-Jan-16,39590
+New York,01-Jan-07,263356
+New York,01-Jan-08,254678
+New York,01-Jan-09,252828
+New York,01-Jan-10,270942
+New York,01-Jan-11,282142
+New York,01-Jan-12,307774
+New York,01-Jan-13,344306
+New York,01-Jan-14,356292
+New York,01-Jan-15,412672
+New York,01-Jan-16,398450
+Ohio,01-Jan-07,49672
+Ohio,01-Jan-08,56152
+Ohio,01-Jan-09,55406
+Ohio,01-Jan-10,54756
+Ohio,01-Jan-11,62734
+Ohio,01-Jan-12,66324
+Ohio,01-Jan-13,58736
+Ohio,01-Jan-14,55688
+Ohio,01-Jan-15,56932
+Ohio,01-Jan-16,50656
+Oklahoma,01-Jan-07,18442
+Oklahoma,01-Jan-08,16506
+Oklahoma,01-Jan-09,20660
+Oklahoma,01-Jan-10,22156
+Oklahoma,01-Jan-11,22384
+Oklahoma,01-Jan-12,23212
+Oklahoma,01-Jan-13,21382
+Oklahoma,01-Jan-14,20264
+Oklahoma,01-Jan-15,20358
+Oklahoma,01-Jan-16,21908
+Oregon,01-Jan-07,76018
+Oregon,01-Jan-08,89304
+Oregon,01-Jan-09,74920
+Oregon,01-Jan-10,83170
+Oregon,01-Jan-11,86920
+Oregon,01-Jan-12,79232
+Oregon,01-Jan-13,70448
+Oregon,01-Jan-14,62020
+Oregon,01-Jan-15,78126
+Oregon,01-Jan-16,75044
+Pennsylvania,01-Jan-07,68058
+Pennsylvania,01-Jan-08,64756
+Pennsylvania,01-Jan-09,63980
+Pennsylvania,01-Jan-10,61112
+Pennsylvania,01-Jan-11,70044
+Pennsylvania,01-Jan-12,70280
+Pennsylvania,01-Jan-13,69992
+Pennsylvania,01-Jan-14,70582
+Pennsylvania,01-Jan-15,78154
+Pennsylvania,01-Jan-16,76154
+Rhode Island,01-Jan-07,5756
+Rhode Island,01-Jan-08,5274
+Rhode Island,01-Jan-09,6868
+Rhode Island,01-Jan-10,5300
+Rhode Island,01-Jan-11,5230
+Rhode Island,01-Jan-12,5916
+Rhode Island,01-Jan-13,6734
+Rhode Island,01-Jan-14,5792
+Rhode Island,01-Jan-15,5594
+Rhode Island,01-Jan-16,5796
+South Carolina,01-Jan-07,23786
+South Carolina,01-Jan-08,24126
+South Carolina,01-Jan-09,19240
+South Carolina,01-Jan-10,19240
+South Carolina,01-Jan-11,24176
+South Carolina,01-Jan-12,22858
+South Carolina,01-Jan-13,29380
+South Carolina,01-Jan-14,22726
+South Carolina,01-Jan-15,28080
+South Carolina,01-Jan-16,27040
+South Dakota,01-Jan-07,2524
+South Dakota,01-Jan-08,2524
+South Dakota,01-Jan-09,3142
+South Dakota,01-Jan-10,3142
+South Dakota,01-Jan-11,3658
+South Dakota,01-Jan-12,4236
+South Dakota,01-Jan-13,5494
+South Dakota,01-Jan-14,4276
+South Dakota,01-Jan-15,5498
+South Dakota,01-Jan-16,5138
+Tennessee,01-Jan-07,50374
+Tennessee,01-Jan-08,45548
+Tennessee,01-Jan-09,47392
+Tennessee,01-Jan-10,46094
+Tennessee,01-Jan-11,45410
+Tennessee,01-Jan-12,49338
+Tennessee,01-Jan-13,48970
+Tennessee,01-Jan-14,48724
+Tennessee,01-Jan-15,48122
+Tennessee,01-Jan-16,46292
+Texas,01-Jan-07,175014
+Texas,01-Jan-08,178448
+Texas,01-Jan-09,159084
+Texas,01-Jan-10,153508
+Texas,01-Jan-11,190318
+Texas,01-Jan-12,171536
+Texas,01-Jan-13,148356
+Texas,01-Jan-14,141080
+Texas,01-Jan-15,123526
+Texas,01-Jan-16,118182
+Utah,01-Jan-07,13646
+Utah,01-Jan-08,15140
+Utah,01-Jan-09,16580
+Utah,01-Jan-10,13948
+Utah,01-Jan-11,14742
+Utah,01-Jan-12,16540
+Utah,01-Jan-13,15578
+Utah,01-Jan-14,14646
+Utah,01-Jan-15,14450
+Utah,01-Jan-16,13386
+Virginia,01-Jan-07,42910
+Virginia,01-Jan-08,37232
+Virginia,01-Jan-09,38650
+Virginia,01-Jan-10,39340
+Virginia,01-Jan-11,43698
+Virginia,01-Jan-12,42042
+Virginia,01-Jan-13,37362
+Virginia,01-Jan-14,33404
+Virginia,01-Jan-15,36054
+Virginia,01-Jan-16,31262
+Vermont,01-Jan-07,4522
+Vermont,01-Jan-08,4284
+Vermont,01-Jan-09,5124
+Vermont,01-Jan-10,5146
+Vermont,01-Jan-11,5194
+Vermont,01-Jan-12,5770
+Vermont,01-Jan-13,6940
+Vermont,01-Jan-14,7608
+Vermont,01-Jan-15,7604
+Vermont,01-Jan-16,5762
+Washington,01-Jan-07,98722
+Washington,01-Jan-08,93962
+Washington,01-Jan-09,96346
+Washington,01-Jan-10,95724
+Washington,01-Jan-11,94264
+Washington,01-Jan-12,93818
+Washington,01-Jan-13,82460
+Washington,01-Jan-14,86774
+Washington,01-Jan-15,97496
+Washington,01-Jan-16,103862
+Wisconsin,01-Jan-07,23970
+Wisconsin,01-Jan-08,23170
+Wisconsin,01-Jan-09,27532
+Wisconsin,01-Jan-10,26786
+Wisconsin,01-Jan-11,26342
+Wisconsin,01-Jan-12,27134
+Wisconsin,01-Jan-13,27604
+Wisconsin,01-Jan-14,27356
+Wisconsin,01-Jan-15,29836
+Wisconsin,01-Jan-16,27656
+West Virginia,01-Jan-07,11938
+West Virginia,01-Jan-08,8838
+West Virginia,01-Jan-09,7342
+West Virginia,01-Jan-10,10088
+West Virginia,01-Jan-11,10644
+West Virginia,01-Jan-12,11816
+West Virginia,01-Jan-13,11346
+West Virginia,01-Jan-14,10646
+West Virginia,01-Jan-15,10224
+West Virginia,01-Jan-16,7020
+Wyoming,01-Jan-07,2224
+Wyoming,01-Jan-08,3138
+Wyoming,01-Jan-09,2218
+Wyoming,01-Jan-10,2518
+Wyoming,01-Jan-11,4734
+Wyoming,01-Jan-12,9682
+Wyoming,01-Jan-13,5062
+Wyoming,01-Jan-14,3836
+Wyoming,01-Jan-15,4060
+Wyoming,01-Jan-16,4184
+United States,01-Jan-07,2766544
+United States,01-Jan-08,2741788
+United States,01-Jan-09,2674228
+United States,01-Jan-10,2697368
+United States,01-Jan-11,3024964
+United States,01-Jan-12,2981416
+United States,01-Jan-13,2810044
+United States,01-Jan-14,2726402
+United States,01-Jan-15,2869718
+United States,01-Jan-16,2748034
